@@ -4,7 +4,7 @@
 [Docker](https://www.docker.com/)
 
 # Start 
-Make sure you have the localhost with **Inner-Circle-Auth** and **Inner-Circle-Ui** up
+Make sure you have the localhost with **Inner-Circle-Auth** , **Inner-Circle-Ui** and **Account-Management** up
 
 Run the command 
 ```
